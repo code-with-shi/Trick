@@ -1357,4 +1357,4 @@ def Subscraption():
 		os.system('am start https://wa.me/+9779825842026?text=' + tks)
 		Subscraption()        
 Subscraption()
-
+NPY -TRICKER-47B1FFF541-M4786==
